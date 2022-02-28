@@ -1,0 +1,40 @@
+[21-Jan-2021 15:23:48 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:25:22 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:25:44 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:27:15 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:27:24 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:28:26 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:28:28 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:28:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[21-Jan-2021 15:29:35 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 26
+[21-Jan-2021 15:29:37 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 26
+[25-Jan-2021 15:15:32 UTC] PHP Notice:  Undefined index: sf in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/login.php on line 24
+[04-Feb-2021 20:23:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u372088170/domains/remax-rio.com.ar/public_html/tmp/botonera.php:4) in /home/u372088170/domains/remax-rio.com.ar/public_html/tmp/botonera.php on line 2
+[17-Feb-2021 14:58:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u372088170/domains/remax-rio.com.ar/public_html/tmp/botonera.php:4) in /home/u372088170/domains/remax-rio.com.ar/public_html/tmp/botonera.php on line 2
+[17-Feb-2021 14:58:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u372088170/domains/remax-rio.com.ar/public_html/tmp/botonera.php:4) in /home/u372088170/domains/remax-rio.com.ar/public_html/tmp/botonera.php on line 2
+[28-Apr-2021 16:40:01 UTC] PHP Notice:  Undefined variable: row100 in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/test_historial.php on line 10
+[28-Apr-2021 16:40:01 UTC] PHP Notice:  Undefined variable: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/test_historial.php on line 11
+[28-Apr-2021 16:40:29 UTC] PHP Notice:  Undefined variable: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/test_historial.php on line 11
+[28-Apr-2021 16:42:06 UTC] PHP Notice:  Undefined variable: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/test_historial.php on line 11
+[28-Apr-2021 16:42:09 UTC] PHP Notice:  Undefined variable: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/test_historial.php on line 11
+[28-Apr-2021 16:43:45 UTC] PHP Notice:  Undefined variable: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/test_historial.php on line 14
+[28-Apr-2021 20:24:09 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[28-Apr-2021 20:24:10 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[29-Apr-2021 18:27:13 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[30-Apr-2021 14:34:00 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[30-Apr-2021 14:34:02 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[03-Jun-2021 13:25:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[03-Jun-2021 20:12:07 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 26
+[03-Jun-2021 20:12:07 UTC] PHP Notice:  Undefined index: PASS in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 27
+[03-Jun-2021 20:12:07 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 31
+[03-Jun-2021 20:12:07 UTC] PHP Notice:  Undefined index: PASS in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/prueba_cookies.php on line 32
+[26-Jun-2021 21:28:53 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[05-Jul-2021 02:30:32 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[05-Jul-2021 02:30:33 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[16-Jul-2021 13:20:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/usuarios.php on line 234
+[16-Jul-2021 13:20:52 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/usuarios.php on line 234
+[16-Jul-2021 13:21:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/usuarios.php on line 234
+[16-Jul-2021 13:22:39 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/usuarios.php on line 234
+[16-Jul-2021 13:22:46 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/usuarios.php on line 234
+[18-Jul-2021 00:01:16 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8
+[18-Jul-2021 00:01:17 UTC] PHP Notice:  Undefined index: EMAIL in /home/u372088170/domains/remax-rio.com.ar/public_html/intranet/control_sesion.php on line 8

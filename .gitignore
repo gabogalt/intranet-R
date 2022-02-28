@@ -1,0 +1,14 @@
+# Ignora carpeta de admin 
+admin_historial
+#ignora web staff
+web_staff
+
+#ignora estilos
+*.css
+
+#ignora staff
+staff
+
+#ignora  laboratorio y red remax
+laboratorio
+RedRemax
